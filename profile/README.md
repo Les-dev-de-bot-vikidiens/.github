@@ -19,3 +19,6 @@ Bienvenue dans l’organisation **Les dev de bot vikidiens** !
 > et à celles et ceux qui participent au développement de bots éducatifs et responsables ❤️
 
 ---
+
+## Liens externes 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fHVu6eFwcX)
